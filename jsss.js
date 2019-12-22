@@ -4,7 +4,7 @@ console.log ("Bitch")
 let brbad = prompt('Now... Say my name', '');
 
 if (brbad == Heisenberg) {
-  alert( 'you goddamn right!' );
+  console.log( 'you goddamn right!' );
 } else {
-  alert( 'shot' ); // любое значение, кроме 2015
+  console.log( 'shot' ); // любое значение, кроме 2015
 }
